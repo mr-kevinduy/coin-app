@@ -1,0 +1,15 @@
+{
+  "RootLayout": {
+    "home_link": "Home",
+    "about_link": "About",
+    "counter_link": "Counter",
+    "portfolio_link": "Portfolio",
+    "sign_in_link": "Sign in",
+    "sign_up_link": "Sign up"
+  },
+  "HomePage": {
+    "meta_title": "HomePage",
+    "meta_description": "Next js Boilerplate is the perfect starter code for your project. Build your React application with the Next.js framework.",
+    "page_title": "Home page"
+  }
+}

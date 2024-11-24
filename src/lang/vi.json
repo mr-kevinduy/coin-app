@@ -1,0 +1,13 @@
+{
+  "RootLayout": {
+    "home_link": "Trang chủ",
+    "about_link": "Về chúng tôi",
+    "sign_in_link": "Đăng nhập",
+    "sign_up_link": "Đăng xuất"
+  },
+  "HomePage": {
+    "meta_title": "Trang chủ",
+    "meta_description": "Đây là trang chủ của chúng tôi.",
+    "page_title": "Trang chủ"
+  }
+}
