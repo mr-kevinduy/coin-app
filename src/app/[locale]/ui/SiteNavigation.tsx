@@ -9,7 +9,7 @@ export default function SiteNavigation() {
         </li>
 
         <li className="flex items-center gap-2 hover:underline hover:underline-offset-4">
-          <ActiveLink className="nav-link" href="/blog">Blog</ActiveLink>
+          <ActiveLink className="nav-link" href="/estimate">Finance Estimate</ActiveLink>
         </li>
 
         <li className="flex items-center gap-2 hover:underline hover:underline-offset-4">

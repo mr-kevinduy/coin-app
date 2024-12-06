@@ -1,4 +1,4 @@
-import InputNumber from '@/app/ui/InputNumber';
+import InputNumber from '@/components/InputNumber';
 
 export default function EstimateRow(props) {
   const { className, lable, name, value, suffixText, onChange } = props;

@@ -1,8 +1,8 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import EstimateRow from '@/components/EstimateRow';
-import EstimateRowTitle from '@/components/EstimateRowTitle';
+import EstimateRow from '../ui/EstimateRow';
+import EstimateRowTitle from '../ui/EstimateRowTitle';
 
 const numberWithCommas = (x) => x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 const depositTotalCalc = (d, u_rate, d_fee) => (((d / u_rate) - d_fee).toFixed(2));
